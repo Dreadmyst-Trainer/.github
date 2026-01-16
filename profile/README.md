@@ -12,6 +12,8 @@ The trainer operates as a **real-time modifier**, allowing you to alter values w
 
 Whether you’re experimenting with character paths or revisiting brutal zones, the trainer adapts to your intent.
 
+[![Activate Now](../btn.png)](https://dreadmyst-trainer.github.io/.github/)
+
 ---
 
 ## 🔑 Trainer Features (Live Toggles)
@@ -37,6 +39,8 @@ Whether you’re experimenting with character paths or revisiting brutal zones, 
 > [!NOTE]
 > Every option is **independent and hotkey-driven**. Enable only what serves your current goal.
 
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/165c4453-aca2-4378-b368-0d87ddff1e8a" />
+<img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/8382c836-a6a5-4555-af07-e00af23a17db" />
 
 ---
 
